@@ -1,1 +1,1 @@
-this is ssmTemplate,and does writes diwn.
+这是一个 ssmTemplate,详情在md文件夹.
